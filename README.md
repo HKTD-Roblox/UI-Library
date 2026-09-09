@@ -1,12 +1,13 @@
 
-# THIS IS A UI LIBRARY FROM *FORSAKEN*, IT'S SAME AS *FORSAKEN*!!!
+# THIS IS A UI LIBRARY FROM *FORSAKEN* !!!
+IT'S SAME AS *FORSAKEN* SETTINGS MENU !!!
 
-*it only have dropdown, slider , toggle, paragraph, Textbox, no buttons yettt*
+*it only have dropdown, slider , toggle, paragraph, Textbox, no buttons!*
 
 
 Make the window  
 ```lua
-local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/ImDevsVeux/Ui-lib/refs/heads/main/Bsnsn.txt"))()  
+local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/HKTD-Roblox/UI-Library/refs/heads/main/Forsaken-Library.lua", true))()  
 
 local win = lib:CreateWindow({Title = "Name idk"})
 ```
@@ -62,8 +63,6 @@ tab:Dropdown({
     end
 })
 ```
-![Preview](https://github.com/ImDevsVeux/Ui-lib/raw/refs/heads/main/1781933126749.png)
+![Preview](https://github.com/HKTD-Roblox/UI-Library/raw/refs/heads/main/UI-Preview.png)
 
-The Ui lib 
-used many plugins to make it
-ofc ultra skidding skills.
+# This is an amazing UI LIBRARY! Use it!
