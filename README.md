@@ -1,5 +1,5 @@
 
-# THIS IS A UI LIBRARY FROM *FORSAKEN*!!! IT'S SAME AS *FORSAKEN*
+# THIS IS A UI LIBRARY FROM *FORSAKEN*, IT'S SAME AS *FORSAKEN*!!!
 
 *it only have dropdown, slider , toggle, paragraph, Textbox, no buttons yettt*
 
